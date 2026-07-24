@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+<title>구봉의 팟캐스트</title>
+<link>https://koomook.github.io/goobong-podcast/</link>
+<description>구봉이 이동하면서 듣기 위해 AI로 생성하는 개인 팟캐스트입니다.</description>
+<language>ko</language>
+<copyright>© 2026 구봉</copyright>
+<lastBuildDate>Fri, 24 Jul 2026 00:49:48 +0000</lastBuildDate>
+<atom:link href="https://koomook.github.io/goobong-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+<itunes:author>구봉</itunes:author>
+<itunes:summary>구봉이 이동하면서 듣기 위해 AI로 생성하는 개인 팟캐스트입니다.</itunes:summary>
+<itunes:explicit>false</itunes:explicit>
+<itunes:type>episodic</itunes:type>
+<itunes:category text="Technology"/>
+<itunes:image href="https://koomook.github.io/goobong-podcast/artwork.png"/>
+<image>
+<url>https://koomook.github.io/goobong-podcast/artwork.png</url>
+<title>구봉의 팟캐스트</title>
+<link>https://koomook.github.io/goobong-podcast/</link>
+</image>
+</channel>
+</rss>
