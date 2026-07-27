@@ -6,7 +6,7 @@
 <description>구봉이 이동하면서 듣기 위해 AI로 생성하는 개인 팟캐스트입니다.</description>
 <language>ko</language>
 <copyright>© 2026 구봉</copyright>
-<lastBuildDate>Fri, 24 Jul 2026 00:53:49 +0000</lastBuildDate>
+<lastBuildDate>Mon, 27 Jul 2026 11:14:45 +0000</lastBuildDate>
 <atom:link href="https://koomook.github.io/goobong-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>구봉</itunes:author>
 <itunes:summary>구봉이 이동하면서 듣기 위해 AI로 생성하는 개인 팟캐스트입니다.</itunes:summary>
@@ -19,6 +19,22 @@
 <title>구봉의 팟캐스트</title>
 <link>https://koomook.github.io/goobong-podcast/</link>
 </image>
+<item>
+<title>2076년에서 돌아본 정구봉의 50년 · 단독 내레이션</title>
+<description>2076년에서 돌아본 정구봉의 50년 · 단독 내레이션
+
+두 목소리는 모두 OpenAI TTS로 생성되었습니다.</description>
+<content:encoded>2076년에서 돌아본 정구봉의 50년 · 단독 내레이션
+
+두 목소리는 모두 OpenAI TTS로 생성되었습니다.</content:encoded>
+<guid isPermaLink="false">sha256:5584360c5214f9cf6d5825c518f9b3d53fe04e7fdebc74fbb4eaaf8b9ee70691</guid>
+<pubDate>Mon, 27 Jul 2026 11:14:45 +0000</pubDate>
+<enclosure url="https://github.com/Koomook/goobong-podcast/releases/download/episode-5584360c5214f9cf/episode-5584360c5214f9cf.m4a" length="24338575" type="audio/mp4"/>
+<itunes:author>구봉</itunes:author>
+<itunes:duration>00:25:11</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>회사를 AI의 학습 환경으로 바꾼 사람 — 아시아 Company Environment Foundry 창업자 인터뷰</title>
 <description>회사를 AI의 학습 환경으로 바꾼 사람 — 아시아 Company Environment Foundry 창업자 인터뷰

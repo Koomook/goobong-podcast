@@ -13,6 +13,19 @@
       "sha256": "a91c1669ffcd4a38478ba52b83f3c772b69987d308d364961f51a50e2db94a4c",
       "release_tag": "episode-a91c1669ffcd4a38",
       "asset_name": "episode-a91c1669ffcd4a38.m4a"
+    },
+    {
+      "guid": "sha256:5584360c5214f9cf6d5825c518f9b3d53fe04e7fdebc74fbb4eaaf8b9ee70691",
+      "title": "2076년에서 돌아본 정구봉의 50년 · 단독 내레이션",
+      "description": "2076년에서 돌아본 정구봉의 50년 · 단독 내레이션\n\n두 목소리는 모두 OpenAI TTS로 생성되었습니다.",
+      "published_at": "2026-07-27T11:14:45.722828+00:00",
+      "enclosure_url": "https://github.com/Koomook/goobong-podcast/releases/download/episode-5584360c5214f9cf/episode-5584360c5214f9cf.m4a",
+      "length": 24338575,
+      "media_type": "audio/mp4",
+      "duration": "00:25:11",
+      "sha256": "5584360c5214f9cf6d5825c518f9b3d53fe04e7fdebc74fbb4eaaf8b9ee70691",
+      "release_tag": "episode-5584360c5214f9cf",
+      "asset_name": "episode-5584360c5214f9cf.m4a"
     }
   ]
 }
