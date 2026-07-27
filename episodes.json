@@ -26,6 +26,19 @@
       "sha256": "5584360c5214f9cf6d5825c518f9b3d53fe04e7fdebc74fbb4eaaf8b9ee70691",
       "release_tag": "episode-5584360c5214f9cf",
       "asset_name": "episode-5584360c5214f9cf.m4a"
+    },
+    {
+      "guid": "sha256:4728c11eb92774211dab48c27692b815e3e01f00abfdb30b078a7bd7a2a46c77",
+      "title": "2076년의 내가 2026년의 나에게",
+      "description": "2076년의 내가 2026년의 나에게\n\n이 에피소드의 한 목소리는 OpenAI TTS로 생성되었습니다.",
+      "published_at": "2026-07-27T11:50:11.224352+00:00",
+      "enclosure_url": "https://github.com/Koomook/goobong-podcast/releases/download/episode-4728c11eb9277421/episode-4728c11eb9277421.m4a",
+      "length": 13816440,
+      "media_type": "audio/mp4",
+      "duration": "00:13:53",
+      "sha256": "4728c11eb92774211dab48c27692b815e3e01f00abfdb30b078a7bd7a2a46c77",
+      "release_tag": "episode-4728c11eb9277421",
+      "asset_name": "episode-4728c11eb9277421.m4a"
     }
   ]
 }
