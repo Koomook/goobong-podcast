@@ -39,6 +39,19 @@
       "sha256": "4728c11eb92774211dab48c27692b815e3e01f00abfdb30b078a7bd7a2a46c77",
       "release_tag": "episode-4728c11eb9277421",
       "asset_name": "episode-4728c11eb9277421.m4a"
+    },
+    {
+      "guid": "sha256:fda5026b217c37d5919c4faab1aed6d46a273438cb5795eade08b468129f862c",
+      "title": "시스템을 말하는 것과 환경을 만드는 것은 다르다",
+      "description": "시스템을 말하는 것과 환경을 만드는 것은 다르다\n\n이 에피소드의 두 목소리는 모두 OpenAI TTS로 생성되었습니다.",
+      "published_at": "2026-07-27T22:09:37.422836+00:00",
+      "enclosure_url": "https://github.com/Koomook/goobong-podcast/releases/download/episode-fda5026b217c37d5/episode-fda5026b217c37d5.m4a",
+      "length": 16308381,
+      "media_type": "audio/mp4",
+      "duration": "00:16:42",
+      "sha256": "fda5026b217c37d5919c4faab1aed6d46a273438cb5795eade08b468129f862c",
+      "release_tag": "episode-fda5026b217c37d5",
+      "asset_name": "episode-fda5026b217c37d5.m4a"
     }
   ]
 }
