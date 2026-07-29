@@ -6,7 +6,7 @@
 <description>구봉이 이동하면서 듣기 위해 AI로 생성하는 개인 팟캐스트입니다.</description>
 <language>ko</language>
 <copyright>© 2026 구봉</copyright>
-<lastBuildDate>Wed, 29 Jul 2026 15:16:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 22:14:35 +0000</lastBuildDate>
 <atom:link href="https://koomook.github.io/goobong-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>구봉</itunes:author>
 <itunes:summary>구봉이 이동하면서 듣기 위해 AI로 생성하는 개인 팟캐스트입니다.</itunes:summary>
@@ -19,6 +19,22 @@
 <title>구봉의 팟캐스트</title>
 <link>https://koomook.github.io/goobong-podcast/</link>
 </image>
+<item>
+<title>AI는 칩 설계를 어떻게 배우는가</title>
+<description>AI는 칩 설계를 어떻게 배우는가
+
+이 에피소드의 두 목소리는 모두 OpenAI TTS로 생성되었습니다.</description>
+<content:encoded>AI는 칩 설계를 어떻게 배우는가
+
+이 에피소드의 두 목소리는 모두 OpenAI TTS로 생성되었습니다.</content:encoded>
+<guid isPermaLink="false">sha256:d83840cb7b47658b877ee7ee44b34a068a54cd5a32bfb7dbb07244ece574d8bc</guid>
+<pubDate>Wed, 29 Jul 2026 22:14:35 +0000</pubDate>
+<enclosure url="https://github.com/Koomook/goobong-podcast/releases/download/episode-d83840cb7b47658b/episode-d83840cb7b47658b.m4a" length="15201553" type="audio/mp4"/>
+<itunes:author>구봉</itunes:author>
+<itunes:duration>00:15:39</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>칩 데이터를 사지 말고, 결정 환경을 컴파일하라</title>
 <description>칩 데이터를 사지 말고, 결정 환경을 컴파일하라

@@ -65,6 +65,19 @@
       "sha256": "041966b4d391eb20b361e057cc1eaa399c0bf6da571675201d0aa02a63466b40",
       "release_tag": "episode-041966b4d391eb20",
       "asset_name": "episode-041966b4d391eb20.m4a"
+    },
+    {
+      "guid": "sha256:d83840cb7b47658b877ee7ee44b34a068a54cd5a32bfb7dbb07244ece574d8bc",
+      "title": "AI는 칩 설계를 어떻게 배우는가",
+      "description": "AI는 칩 설계를 어떻게 배우는가\n\n이 에피소드의 두 목소리는 모두 OpenAI TTS로 생성되었습니다.",
+      "published_at": "2026-07-29T22:14:35.960497+00:00",
+      "enclosure_url": "https://github.com/Koomook/goobong-podcast/releases/download/episode-d83840cb7b47658b/episode-d83840cb7b47658b.m4a",
+      "length": 15201553,
+      "media_type": "audio/mp4",
+      "duration": "00:15:39",
+      "sha256": "d83840cb7b47658b877ee7ee44b34a068a54cd5a32bfb7dbb07244ece574d8bc",
+      "release_tag": "episode-d83840cb7b47658b",
+      "asset_name": "episode-d83840cb7b47658b.m4a"
     }
   ]
 }
