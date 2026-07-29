@@ -6,7 +6,7 @@
 <description>구봉이 이동하면서 듣기 위해 AI로 생성하는 개인 팟캐스트입니다.</description>
 <language>ko</language>
 <copyright>© 2026 구봉</copyright>
-<lastBuildDate>Mon, 27 Jul 2026 22:09:37 +0000</lastBuildDate>
+<lastBuildDate>Wed, 29 Jul 2026 15:16:37 +0000</lastBuildDate>
 <atom:link href="https://koomook.github.io/goobong-podcast/feed.xml" rel="self" type="application/rss+xml"/>
 <itunes:author>구봉</itunes:author>
 <itunes:summary>구봉이 이동하면서 듣기 위해 AI로 생성하는 개인 팟캐스트입니다.</itunes:summary>
@@ -19,6 +19,22 @@
 <title>구봉의 팟캐스트</title>
 <link>https://koomook.github.io/goobong-podcast/</link>
 </image>
+<item>
+<title>칩 데이터를 사지 말고, 결정 환경을 컴파일하라</title>
+<description>칩 데이터를 사지 말고, 결정 환경을 컴파일하라
+
+이 에피소드의 두 목소리는 모두 OpenAI TTS로 생성되었습니다.</description>
+<content:encoded>칩 데이터를 사지 말고, 결정 환경을 컴파일하라
+
+이 에피소드의 두 목소리는 모두 OpenAI TTS로 생성되었습니다.</content:encoded>
+<guid isPermaLink="false">sha256:041966b4d391eb20b361e057cc1eaa399c0bf6da571675201d0aa02a63466b40</guid>
+<pubDate>Wed, 29 Jul 2026 15:16:37 +0000</pubDate>
+<enclosure url="https://github.com/Koomook/goobong-podcast/releases/download/episode-041966b4d391eb20/episode-041966b4d391eb20.m4a" length="16722450" type="audio/mp4"/>
+<itunes:author>구봉</itunes:author>
+<itunes:duration>00:17:04</itunes:duration>
+<itunes:explicit>false</itunes:explicit>
+<itunes:episodeType>full</itunes:episodeType>
+</item>
 <item>
 <title>시스템을 말하는 것과 환경을 만드는 것은 다르다</title>
 <description>시스템을 말하는 것과 환경을 만드는 것은 다르다

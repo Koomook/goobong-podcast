@@ -52,6 +52,19 @@
       "sha256": "fda5026b217c37d5919c4faab1aed6d46a273438cb5795eade08b468129f862c",
       "release_tag": "episode-fda5026b217c37d5",
       "asset_name": "episode-fda5026b217c37d5.m4a"
+    },
+    {
+      "guid": "sha256:041966b4d391eb20b361e057cc1eaa399c0bf6da571675201d0aa02a63466b40",
+      "title": "칩 데이터를 사지 말고, 결정 환경을 컴파일하라",
+      "description": "칩 데이터를 사지 말고, 결정 환경을 컴파일하라\n\n이 에피소드의 두 목소리는 모두 OpenAI TTS로 생성되었습니다.",
+      "published_at": "2026-07-29T15:16:37.721017+00:00",
+      "enclosure_url": "https://github.com/Koomook/goobong-podcast/releases/download/episode-041966b4d391eb20/episode-041966b4d391eb20.m4a",
+      "length": 16722450,
+      "media_type": "audio/mp4",
+      "duration": "00:17:04",
+      "sha256": "041966b4d391eb20b361e057cc1eaa399c0bf6da571675201d0aa02a63466b40",
+      "release_tag": "episode-041966b4d391eb20",
+      "asset_name": "episode-041966b4d391eb20.m4a"
     }
   ]
 }
